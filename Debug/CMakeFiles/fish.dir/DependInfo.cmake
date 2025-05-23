@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/lillieayer/developer/git/CSCI437-Spring25-Group8/bin/fish.cpp" "CMakeFiles/fish.dir/bin/fish.cpp.o" "gcc" "CMakeFiles/fish.dir/bin/fish.cpp.o.d"
+  "/Users/lillieayer/developer/git/crimdell-fishing/bin/fish.cpp" "CMakeFiles/fish.dir/bin/fish.cpp.o" "gcc" "CMakeFiles/fish.dir/bin/fish.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,0 +1,3 @@
+/Users/lillieayer/developer/git/crimdell-fishing/Debug/CMakeFiles/fish.dir
+/Users/lillieayer/developer/git/crimdell-fishing/Debug/CMakeFiles/edit_cache.dir
+/Users/lillieayer/developer/git/crimdell-fishing/Debug/CMakeFiles/rebuild_cache.dir

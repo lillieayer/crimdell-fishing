@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/lillieayer/developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2
+CXX_INCLUDES = -I/Users/lillieayer/developer/git/crimdell-fishing/include -isystem /usr/local/include/SDL2
 
 CXX_FLAGS = -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3
 
