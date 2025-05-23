@@ -1,0 +1,4 @@
+/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build/CMakeFiles/CSCI437-Spring25-Group8_core.dir
+/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build/CMakeFiles/fish.dir
+/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build/CMakeFiles/edit_cache.dir
+/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/Vector2D.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/Vector2D.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/Vector2D.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/Vector2D.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/base_view.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/base_view.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/base_view.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/base_view.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/big_fish.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/big_fish.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/big_fish.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/big_fish.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/fish.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/fish.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/fish.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/fish.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/fishing_logic.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/fishing_logic.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/fishing_logic.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/fishing_logic.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/fishing_view.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/fishing_view.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/fishing_view.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/fishing_view.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/game_constants.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/game_constants.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/game_constants.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/game_constants.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/game_notifier.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/game_notifier.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/game_notifier.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/game_notifier.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/hazard.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/hazard.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/hazard.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/hazard.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/medium_fish.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/medium_fish.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/medium_fish.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/medium_fish.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/menu_view.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/menu_view.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/menu_view.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/menu_view.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/pause_menu.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/pause_menu.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/pause_menu.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/pause_menu.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/player_data.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/player_data.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/player_data.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/player_data.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/popup.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/popup.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/popup.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/popup.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/process_manager.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/process_manager.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/process_manager.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/process_manager.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/rod.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/rod.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/rod.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/rod.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/store_view.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/store_view.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/store_view.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/store_view.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/text_box.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/text_box.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/text_box.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/text_box.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/texture_manager.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/texture_manager.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/src/texture_manager.cpp",
+  "output": "CMakeFiles/CSCI437-Spring25-Group8_core.dir/src/texture_manager.cpp.o"
+},
+{
+  "directory": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/build",
+  "command": "/usr/local/Cellar/gcc/14.2.0_1/bin/g++-14  -I/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/include -isystem /usr/local/include/SDL2 -g -std=c++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/fish.dir/bin/fish.cpp.o -c /Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/bin/fish.cpp",
+  "file": "/Users/lillieayer/Developer/git/CSCI437-Spring25-Group8/bin/fish.cpp",
+  "output": "CMakeFiles/fish.dir/bin/fish.cpp.o"
+}
+]
